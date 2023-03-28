@@ -1,4 +1,5 @@
 # Bucket-list-Before-20y
+Install Angular by following this guide: https://angular.io/guide/setup-local
 
 The application should allow users to:
 
